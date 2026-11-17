@@ -1,0 +1,6 @@
+{
+  "name": "مغامرة البطل التعليمية",
+  "description": "لعبة منصات تعليمية تفاعلية مستوحاة من ألعاب ماريو الكلاسيكية مع 5 صناديق أسئلة قابلة للتخصيص في أي مادة دراسية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
